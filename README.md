@@ -1,2 +1,2 @@
 # elettrondapedani
-https://elettroonda.pedani.it
+https://elettronda.pedani.it
